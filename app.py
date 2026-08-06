@@ -6,7 +6,7 @@ import io
 
 # 1. CẤU HÌNH TRANG & CHỦ ĐỀ NỀN TỐI
 st.set_page_config(
-    page_title="Hòa Phát Logistics - Quản Lý Hàng Tồn & Bể Vỡ",
+    page_title="Hào Phát Logistics - Quản Lý Hàng Tồn & Bể Vỡ",
     page_icon="📦",
     layout="wide",
     initial_sidebar_state="expanded"
