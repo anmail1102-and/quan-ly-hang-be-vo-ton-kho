@@ -115,7 +115,7 @@ if 'inventory_data' not in st.session_state:
 st.markdown("""
     <div class="main-header">
         <h1>📦 QUẢN LÝ HÀNG TỒN GIAO CHƯA KỊP & BỂ VỠ</h1>
-        <p>Hệ thống theo dõi sự cố giao hàng, lưu kho trả về và đối soát bồi thường Masan - Hòa Phát Logistics</p>
+        <p>Hệ thống theo dõi sự cố giao hàng, lưu kho trả về và đối soát bồi thường Masan - Hào Phát Logistics - Hotline:0939862467 (Mr.Liền)  </p>
     </div>
 """, unsafe_allow_html=True)
 
